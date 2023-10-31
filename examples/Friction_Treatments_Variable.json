@@ -1,0 +1,74 @@
+{
+    "variables": [
+        {
+            "name": "Friction_value",
+            "type": "continuous",
+            "group_name": "Friction_value"
+        },
+        {
+            "name": "Year_after_treatment",
+            "type": "continuous",
+            "group_name": "Year_after_treatment"
+        },
+        {
+            "name": "Binder",
+            "type": "continuous",
+            "group_name": "Binder"
+        },
+        {
+            "name": "Aggregate01",
+            "type": "continuous",
+            "group_name": "Aggregate01"
+        },
+        {
+            "name": "Type",
+            "type": "continuous",
+            "group_name": "Type"
+        },
+        {
+            "name": "LA_Abrasion",
+            "type": "continuous",
+            "group_name": "LA_Abrasion"
+        },
+        {
+            "name": "Micro_Deval",
+            "type": "continuous",
+            "group_name": "Micro_Deval"
+        },
+        {
+            "name": "AADT",
+            "type": "continuous",
+            "group_name": "AADT"
+        },
+        {
+            "name": "AC TypeS4",
+            "type": "binary",
+            "group_name": "AC TypeS4"
+        },
+        {
+            "name": "AC TypeS5",
+            "type": "binary",
+            "group_name": "AC TypeS5"
+        },
+        {
+            "name": "AC TypeS6",
+            "type": "binary",
+            "group_name": "AC TypeS6"
+        },
+        {
+            "name": "Diamond Griding",
+            "type": "binary",
+            "group_name": "Diamond Griding"
+        },
+        {
+            "name": "Thin Overlay",
+            "type": "binary",
+            "group_name": "Thin Overlay"
+        },
+        {
+            "name": "UTBWC",
+            "type": "binary",
+            "group_name": "UTBWC"
+        }
+    ]
+}
