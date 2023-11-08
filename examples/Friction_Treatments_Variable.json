@@ -61,6 +61,11 @@
             "group_name": "Diamond Griding"
         },
         {
+            "name": "HFST",
+            "type": "binary",
+            "group_name": "HFST"
+        },
+        {
             "name": "Thin Overlay",
             "type": "binary",
             "group_name": "Thin Overlay"
